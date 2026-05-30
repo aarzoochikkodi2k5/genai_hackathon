@@ -1,0 +1,82 @@
+{
+  "match_info": {
+    "sport": "cricket",
+    "format": "T20",
+    "match_id": "T20_2024_001",
+    "date": "2024-05-30",
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Mumbai Indians",
+    "toss_winner": "Mumbai Indians",
+    "toss_decision": "field"
+  },
+  "innings": [
+    {
+      "innings_number": 1,
+      "batting_team": "Royal Challengers Bengaluru",
+      "bowling_team": "Mumbai Indians",
+      "total_runs": 186,
+      "total_wickets": 6,
+      "total_overs": 20.0,
+      "extras": {"wides": 8, "no_balls": 3, "byes": 2, "leg_byes": 1},
+      "batting": [
+        {"player": "Virat Kohli", "runs": 72, "balls": 48, "fours": 6, "sixes": 3, "dismissed": "caught", "dismissal_bowler": "Bumrah"},
+        {"player": "Faf du Plessis", "runs": 45, "balls": 32, "fours": 4, "sixes": 2, "dismissed": "bowled", "dismissal_bowler": "Hardik Pandya"},
+        {"player": "Glenn Maxwell", "runs": 38, "balls": 18, "fours": 2, "sixes": 4, "dismissed": "caught", "dismissal_bowler": "Bumrah"},
+        {"player": "Dinesh Karthik", "runs": 24, "balls": 10, "fours": 1, "sixes": 2, "dismissed": "not_out", "dismissal_bowler": null}
+      ],
+      "bowling": [
+        {"player": "Jasprit Bumrah", "overs": 4, "runs": 28, "wickets": 3, "economy": 7.0},
+        {"player": "Hardik Pandya", "overs": 4, "runs": 42, "wickets": 1, "economy": 10.5},
+        {"player": "Piyush Chawla", "overs": 4, "runs": 38, "wickets": 1, "economy": 9.5}
+      ],
+      "ball_by_ball": [
+        {"over": 1, "ball": 1, "bowler": "Bumrah", "batsman": "Kohli", "runs": 1, "event": "single"},
+        {"over": 1, "ball": 2, "bowler": "Bumrah", "batsman": "du Plessis", "runs": 4, "event": "boundary"},
+        {"over": 1, "ball": 3, "bowler": "Bumrah", "batsman": "du Plessis", "runs": 0, "event": "dot"},
+        {"over": 1, "ball": 4, "bowler": "Bumrah", "batsman": "du Plessis", "runs": 6, "event": "six"},
+        {"over": 1, "ball": 5, "bowler": "Bumrah", "batsman": "du Plessis", "runs": 0, "event": "dot"},
+        {"over": 1, "ball": 6, "bowler": "Bumrah", "batsman": "du Plessis", "runs": 2, "event": "two"},
+        {"over": 6, "ball": 1, "bowler": "Chawla", "batsman": "Kohli", "runs": 6, "event": "six"},
+        {"over": 6, "ball": 2, "bowler": "Chawla", "batsman": "Kohli", "runs": 4, "event": "boundary"},
+        {"over": 6, "ball": 3, "bowler": "Chawla", "batsman": "Kohli", "runs": 1, "event": "single"},
+        {"over": 15, "ball": 3, "bowler": "Bumrah", "batsman": "Kohli", "runs": 0, "event": "wicket", "dismissal": "caught"},
+        {"over": 18, "ball": 4, "bowler": "Bumrah", "batsman": "Maxwell", "runs": 0, "event": "wicket", "dismissal": "caught"},
+        {"over": 20, "ball": 4, "bowler": "Hardik", "batsman": "Karthik", "runs": 6, "event": "six"},
+        {"over": 20, "ball": 6, "bowler": "Hardik", "batsman": "Karthik", "runs": 4, "event": "boundary"}
+      ]
+    },
+    {
+      "innings_number": 2,
+      "batting_team": "Mumbai Indians",
+      "bowling_team": "Royal Challengers Bengaluru",
+      "total_runs": 174,
+      "total_wickets": 9,
+      "total_overs": 20.0,
+      "extras": {"wides": 5, "no_balls": 1, "byes": 0, "leg_byes": 3},
+      "batting": [
+        {"player": "Rohit Sharma", "runs": 55, "balls": 38, "fours": 5, "sixes": 3, "dismissed": "caught", "dismissal_bowler": "Siraj"},
+        {"player": "Ishan Kishan", "runs": 42, "balls": 30, "fours": 4, "sixes": 2, "dismissed": "lbw", "dismissal_bowler": "Harshal Patel"},
+        {"player": "Tilak Varma", "runs": 35, "balls": 25, "fours": 3, "sixes": 2, "dismissed": "run_out", "dismissal_bowler": null},
+        {"player": "Hardik Pandya", "runs": 28, "balls": 15, "fours": 2, "sixes": 2, "dismissed": "caught", "dismissal_bowler": "Maxwell"}
+      ],
+      "bowling": [
+        {"player": "Mohammed Siraj", "overs": 4, "runs": 32, "wickets": 2, "economy": 8.0},
+        {"player": "Harshal Patel", "overs": 4, "runs": 38, "wickets": 2, "economy": 9.5},
+        {"player": "Glenn Maxwell", "overs": 2, "runs": 18, "wickets": 1, "economy": 9.0}
+      ],
+      "ball_by_ball": [
+        {"over": 1, "ball": 1, "bowler": "Siraj", "batsman": "Rohit", "runs": 4, "event": "boundary"},
+        {"over": 1, "ball": 2, "bowler": "Siraj", "batsman": "Rohit", "runs": 0, "event": "dot"},
+        {"over": 10, "ball": 3, "bowler": "Siraj", "batsman": "Rohit", "runs": 0, "event": "wicket", "dismissal": "caught"},
+        {"over": 19, "ball": 6, "bowler": "Harshal", "batsman": "Hardik", "runs": 6, "event": "six"},
+        {"over": 20, "ball": 6, "bowler": "Siraj", "batsman": "Bumrah", "runs": 2, "event": "two"}
+      ]
+    }
+  ],
+  "result": {
+    "winner": "Royal Challengers Bengaluru",
+    "margin": "12 runs",
+    "method": "normal"
+  }
+}
