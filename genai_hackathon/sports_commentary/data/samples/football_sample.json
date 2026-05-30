@@ -1,0 +1,77 @@
+{
+  "match_info": {
+    "sport": "football",
+    "competition": "ISL - Indian Super League",
+    "match_id": "ISL_2024_042",
+    "date": "2024-05-30",
+    "venue": "Sree Kanteerava Stadium, Bengaluru",
+    "home_team": "Bengaluru FC",
+    "away_team": "Chennaiyin FC",
+    "referee": "Santosh Kumar"
+  },
+  "score": {
+    "home": 3,
+    "away": 1,
+    "halftime_home": 2,
+    "halftime_away": 0
+  },
+  "goals": [
+    {"minute": 18, "team": "Bengaluru FC", "scorer": "Sunil Chhetri", "assist": "Udanta Singh", "type": "open_play"},
+    {"minute": 34, "team": "Bengaluru FC", "scorer": "Alan Costa", "assist": null, "type": "header_corner"},
+    {"minute": 61, "team": "Chennaiyin FC", "scorer": "Nerijus Valskis", "assist": "Anirudh Thapa", "type": "penalty"},
+    {"minute": 78, "team": "Bengaluru FC", "scorer": "Cleiton Silva", "assist": "Sunil Chhetri", "type": "counter_attack"}
+  ],
+  "cards": [
+    {"minute": 45, "team": "Chennaiyin FC", "player": "Eli Sabia", "card": "yellow"},
+    {"minute": 55, "team": "Chennaiyin FC", "player": "Rafael Crivellaro", "card": "yellow"},
+    {"minute": 72, "team": "Bengaluru FC", "player": "Harmanjot Khabra", "card": "yellow"}
+  ],
+  "substitutions": [
+    {"minute": 60, "team": "Bengaluru FC", "player_out": "Udanta Singh", "player_in": "Rahul Bheke"},
+    {"minute": 75, "team": "Chennaiyin FC", "player_out": "Valskis", "player_in": "Jakub Sylvestr"}
+  ],
+  "stats": {
+    "home": {
+      "possession": 58,
+      "shots": 14,
+      "shots_on_target": 7,
+      "corners": 6,
+      "fouls": 11,
+      "offsides": 3,
+      "passes": 487,
+      "pass_accuracy": 84
+    },
+    "away": {
+      "possession": 42,
+      "shots": 8,
+      "shots_on_target": 3,
+      "corners": 3,
+      "fouls": 15,
+      "offsides": 2,
+      "passes": 352,
+      "pass_accuracy": 76
+    }
+  },
+  "key_moments": [
+    {"minute": 12, "event": "Chhetri nearly opens the scoring — header just over the bar"},
+    {"minute": 18, "event": "GOAL — Chhetri finishes a brilliant Udanta cross with his left foot"},
+    {"minute": 34, "event": "GOAL — Alan Costa heads home from a corner, doubling the lead"},
+    {"minute": 45, "event": "Half-time: Bengaluru FC 2–0 Chennaiyin FC"},
+    {"minute": 58, "event": "Valskis brings down inside the box — penalty awarded"},
+    {"minute": 61, "event": "GOAL — Valskis converts from the spot: 2–1"},
+    {"minute": 65, "event": "Crucial save by Gurpreet Singh Sandhu — palms Anirudh shot over the bar"},
+    {"minute": 78, "event": "GOAL — Cleiton Silva seals it on the counter: 3–1"},
+    {"minute": 90, "event": "Full-time: Bengaluru FC 3–1 Chennaiyin FC"}
+  ],
+  "player_ratings": [
+    {"player": "Sunil Chhetri", "team": "Bengaluru FC", "rating": 9.1, "stats": "1 goal, 1 assist, 3 key passes"},
+    {"player": "Cleiton Silva", "team": "Bengaluru FC", "rating": 8.5, "stats": "1 goal, 2 key passes"},
+    {"player": "Gurpreet Singh Sandhu", "team": "Bengaluru FC", "rating": 8.2, "stats": "3 saves, clean sheet threatened"},
+    {"player": "Nerijus Valskis", "team": "Chennaiyin FC", "rating": 7.4, "stats": "1 goal (penalty)"},
+    {"player": "Anirudh Thapa", "team": "Chennaiyin FC", "rating": 7.0, "stats": "1 assist, 42 passes"}
+  ],
+  "result": {
+    "winner": "Bengaluru FC",
+    "margin": "3-1"
+  }
+}
